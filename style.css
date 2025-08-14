@@ -1,0 +1,23 @@
+#dikshit{
+    background-color:red;
+border-radius: 40px;
+display:flex;
+justify-content: center;
+align-items: center;
+}
+#ishan{
+    background-color:green;
+border-radius: 40px;
+display:flex;
+justify-content: center;
+align-items: horizontal;
+}
+#saksham{
+    background-color: aqua;
+border-radius: 40px;
+display:flex;
+justify-content: center;
+align-items: center;
+}
+
+
